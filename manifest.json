@@ -1,0 +1,22 @@
+{
+  "name": "Brigade 571 Trisula Macan Putih",
+  "short_name": "Brigade 571 TMP",
+  "description": "Website Resmi Brigade 571 Trisula Macan Putih",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080809",
+  "theme_color": "#d4af37",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
